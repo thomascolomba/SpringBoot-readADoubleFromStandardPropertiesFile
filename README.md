@@ -1,4 +1,4 @@
-How to read an Integer from the standard application.properties with Spring Boot.<br/>
+How to read a Double from the standard application.properties with Spring Boot.<br/>
 <br/>
 How to compile and execute :<br/>
 mvn package<br/>
